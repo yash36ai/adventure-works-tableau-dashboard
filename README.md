@@ -16,6 +16,9 @@ The goal of this project is to transform raw sales data into meaningful insights
 - Enabling interactive exploration of data  
 
 ---
+## 📸 Tableau Dashboard Preview
+
+![Tableau Dashboard](tableau-Dashboard.png)
 
 ## 🛠️ Tools Used
 - Tableau Desktop  
